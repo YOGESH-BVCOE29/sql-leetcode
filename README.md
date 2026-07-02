@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/0177-nth-highest-salary) |
+| [0183-customers-who-never-order](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
