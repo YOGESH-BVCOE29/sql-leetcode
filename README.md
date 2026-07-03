@@ -24,4 +24,5 @@
 | [1070-product-sales-analysis-iii](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1075-project-employees-i) |
 | [1084-sales-analysis-iii](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1084-sales-analysis-iii) |
+| [1148-article-views-i](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1148-article-views-i) |
 <!---LeetCode Topics End-->
