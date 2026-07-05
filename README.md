@@ -27,4 +27,5 @@
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
