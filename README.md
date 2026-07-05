@@ -26,4 +26,5 @@
 | [1084-sales-analysis-iii](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1084-sales-analysis-iii) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1148-article-views-i) |
+| [1211-queries-quality-and-percentage](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
