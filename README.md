@@ -32,4 +32,5 @@
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1407-top-travellers) |
 | [1527-patients-with-a-condition](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1527-patients-with-a-condition) |
+| [1587-bank-account-summary-ii](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1587-bank-account-summary-ii) |
 <!---LeetCode Topics End-->
