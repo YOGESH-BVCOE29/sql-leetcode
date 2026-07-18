@@ -37,4 +37,5 @@
 | [1661-average-time-of-process-per-machine](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
