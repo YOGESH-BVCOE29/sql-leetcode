@@ -40,4 +40,5 @@
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1789-primary-department-for-each-employee](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1789-primary-department-for-each-employee) |
+| [1873-calculate-special-bonus](https://github.com/YOGESH-BVCOE29/sql-leetcode/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
